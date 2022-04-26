@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Google Data Analytics Professional Certificate: Case Study Project
 
-![2022data_pic](https://user-images.githubusercontent.com/36643432/163391257-75f28e92-d5ea-403a-ac9a-e6a932b81ea8.png)
+
 
 
 
