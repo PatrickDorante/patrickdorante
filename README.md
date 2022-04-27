@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![PatrickDorante's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickDorante&show_icons=true)
+![PatrickDorante's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickDorante&show_icons=true&theme=dark)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDorante&layout=compact)](https://github.com/PatrickDorante/github-readme-stats)
