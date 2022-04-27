@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Google Data Analytics Professional Certificate: Case Study Project
+- 🔭 I’m currently working
 
 
 
