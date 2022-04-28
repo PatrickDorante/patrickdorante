@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-####![PatrickDorante's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickDorante&show_icons=true&theme=radical)
+""" ![PatrickDorante's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickDorante&show_icons=true&theme=radical) 
 
 
 
